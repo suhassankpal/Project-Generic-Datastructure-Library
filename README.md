@@ -2,7 +2,8 @@
 
                                              Generalised Data Structures Library
                                              
-Technology :  C++ Programming 
+Technology Used :  C++ Programming
+
 Description : 
 
 • This project is considered as a library which contains generic implementations of all major types of data structure.
